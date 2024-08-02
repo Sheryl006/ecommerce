@@ -1,0 +1,12 @@
+/* body{
+    background-color: #d1c8b0;
+} */
+.card{
+    background: transparent;
+}
+.h1{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bolder;
+
+}
